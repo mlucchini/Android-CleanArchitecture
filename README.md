@@ -49,7 +49,7 @@ https://github.com/android10/java-code-styles
 Continuous Integration and Delivery
 -----------------------------------
 
-Integrated in GreenHouseCI, BuddyBuild.
+Integrated in GreenHouseCI, BuddyBuild, Travis CI.
 
 
 License
