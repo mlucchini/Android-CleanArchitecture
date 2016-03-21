@@ -46,6 +46,12 @@ Here you can download and install the java codestyle.
 https://github.com/android10/java-code-styles
 
 
+Continuous Integration and Delivery
+-----------------------------------
+
+Integrated in GreenHouseCI, BuddyBuild.
+
+
 License
 --------
 
